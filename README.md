@@ -86,7 +86,7 @@ We will include these details in the paper.
 
 
 **ReviewC-Q6**: APPS-GPT. 3792 or 3729?\
-**ReviewC-A6**: We apologize for the typos. It should be 3729. We will fix them in the revision version.
+**ReviewC-A6**: We apologize for the typos. It should be 3729. We will fix them in the revised version.
 
 
 **ReviewC-Q7**: Little implication\
