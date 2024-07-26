@@ -55,7 +55,7 @@ Thank you for the comments. We will discuss this point in the threat-to-validity
 **ReviewC-Q1**: Is Table3 correct?\
 **ReviewC-A1**: Thank you for the reminder. We sincerely apologize for these errors regarding FPR and FNR. Upon careful review, we discovered typos in the results of Fast-DetectGPT. These errors occurred because the results were newly added in the paper revision, and we copied incorrect versions to the LaTeX. We have thoroughly checked all other results and the code to ensure that the rest of the results are correct.
 
-|          Fast-DetectGPT         |           | Q&A |        |        | Code2Doc |       |        |           | CONCODE |        |        | CONCODE |        |        | APPS |        |        |
+|          Fast-DetectGPT         |           | Q&A |        |        | Code2Doc |       |        |           | CONCODE |        |        | Doc2Code |        |        | APPS |        |        |
 |:----------------------:|:---------:|:-------:|:------:|:------:|:------------:|:-----:|:------:|:---------:|:-----------:|:------:|:------:|:-----------:|:------:|:------:|:--------:|:------:|:------:|
 |                        | Avg. |   AUC   |   FPR  |   FNR  |      AUC     |  FPR  |   FNR  | Avg. |     AUC     |   FPR  |   FNR  |     AUC     |   FPR  |   FNR  |    AUC   |   FPR  |   FNR  |
 |      GPT-3.5-Turbo     |   90.02  |  92.22 | 12.72 | 17.70 |    97.89    | 5.92 |  8.63 |   72.88  |    54.36   | 68.13 | 15.40 |    57.65   | 57.07 | 30.49 |  59.91  | 63.30 | 19.62 |
