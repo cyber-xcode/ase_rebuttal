@@ -95,12 +95,8 @@ We will include these details in the paper.
 
 
 ## References:
-*[1] Wang, Jiexin, Xitong Luo, Liuwen Cao, Hongkui He, Hailin Huang, Jiayuan Xie, Adam Jatowt, and Yi Cai. "Is Your AI-Generated Code Really Secure? Evaluating Large Language Models on Secure Code Generation with CodeSecEval." arXiv preprint arXiv:2407.02395 (2024).*
-
-*[2] Schuster, Roei, Congzheng Song, Eran Tromer, and Vitaly Shmatikov. "You autocomplete me: Poisoning vulnerabilities in neural code completion." In 30th USENIX Security Symposium (USENIX Security 21), pp. 1559-1575. 2021.*
-
-*[3] He, Jingxuan, and Martin Vechev. "Large language models for code: Security hardening and adversarial testing." In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security, pp. 1865-1879. 2023.*
-
-*[4] Huang, Dong, Qingwen Bu, Jie Zhang, Xiaofei Xie, Junjie Chen, and Heming Cui. "Bias assessment and mitigation in llm-based code generation." arXiv preprint arXiv:2309.14345 (2023).*
-
+*[1] Wang, Jiexin, Xitong Luo, Liuwen Cao, Hongkui He, Hailin Huang, Jiayuan Xie, Adam Jatowt, and Yi Cai. "Is Your AI-Generated Code Really Secure? Evaluating Large Language Models on Secure Code Generation with CodeSecEval." arXiv preprint arXiv:2407.02395 (2024).*\
+*[2] Schuster, Roei, Congzheng Song, Eran Tromer, and Vitaly Shmatikov. "You autocomplete me: Poisoning vulnerabilities in neural code completion." In 30th USENIX Security Symposium (USENIX Security 21), pp. 1559-1575. 2021.*\
+*[3] He, Jingxuan, and Martin Vechev. "Large language models for code: Security hardening and adversarial testing." In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security, pp. 1865-1879. 2023.*\
+*[4] Huang, Dong, Qingwen Bu, Jie Zhang, Xiaofei Xie, Junjie Chen, and Heming Cui. "Bias assessment and mitigation in llm-based code generation." arXiv preprint arXiv:2309.14345 (2023).*\
 *[5] https://github.com/vllm-project/vllm*
