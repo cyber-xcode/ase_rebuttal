@@ -1,4 +1,4 @@
-We thank all reviewers for the insightful comments.
+We thank all reviewers for their insightful comments.
 
 **Common-Answer**
 
